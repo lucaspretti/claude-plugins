@@ -1,15 +1,22 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "lucaspretti-plugins",
   "description": "Claude Code plugins by Lucas Pretti",
+  "owner": {
+    "name": "Lucas Pretti",
+    "email": "lucas@pretti.dev"
+  },
   "plugins": [
     {
       "name": "matomo-analytics",
       "description": "Unofficial community plugin for Matomo Analytics. Query visits, page performance, search keywords, traffic sources, and AI assistant referrals directly from Claude.",
+      "category": "productivity",
       "source": {
-        "type": "github",
-        "repo": "lucaspretti/matomo-mcp-client"
+        "source": "url",
+        "url": "https://github.com/lucaspretti/matomo-mcp-client.git",
+        "sha": "2707e6753ac687690308d32a4714869c5bfefa1d"
       },
-      "keywords": ["matomo", "analytics", "web-analytics", "mcp", "performance"]
+      "homepage": "https://github.com/lucaspretti/matomo-mcp-client"
     }
   ]
 }
