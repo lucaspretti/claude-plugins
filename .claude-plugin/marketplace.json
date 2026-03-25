@@ -8,13 +8,11 @@
     {
       "name": "matomo-analytics",
       "description": "Unofficial community plugin for Matomo Analytics. Query visits, page performance, search keywords, traffic sources, and AI assistant referrals directly from Claude.",
-      "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/lucaspretti/matomo-mcp-client.git",
         "sha": "79b7d6bbafdb5a26a5c8e8d33026e7c604de8747"
-      },
-      "homepage": "https://github.com/lucaspretti/matomo-mcp-client"
+      }
     }
   ]
 }
