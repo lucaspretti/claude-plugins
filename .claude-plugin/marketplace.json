@@ -1,7 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "lucaspretti-plugins",
-  "description": "Claude Code plugins by Lucas Pretti",
   "owner": {
     "name": "Lucas Pretti",
     "email": "lucas@pretti.dev"
