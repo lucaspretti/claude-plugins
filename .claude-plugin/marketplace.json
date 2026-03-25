@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/lucaspretti/matomo-mcp-client.git",
-        "sha": "c4d9f8316404dd3f34f5ff40e7a45143be6c96a8"
+        "sha": "f0a5ae623af41307ff137e88376cd8ed2bfcffc6"
       },
       "homepage": "https://github.com/lucaspretti/matomo-mcp-client"
     }
