@@ -22,6 +22,15 @@
         "url": "https://github.com/lucaspretti/outlook-mcp.git",
         "sha": "d69e3a5f97f507fd584380201cd1d87ee6bf4016"
       }
+    },
+    {
+      "name": "copilot-mcp",
+      "description": "MCP server for Microsoft 365 Copilot via Playwright browser automation. Query internal corporate data (emails, SharePoint, Teams, meetings).",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucaspretti/copilot-mcp.git",
+        "sha": "d1e0e7b8b0e3eefa8f8e136d5abdfc60453ce843"
+      }
     }
   ]
 }
