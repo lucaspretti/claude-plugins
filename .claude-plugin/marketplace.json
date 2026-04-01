@@ -25,7 +25,7 @@
     },
     {
       "name": "copilot-mcp",
-      "description": "MCP server for Microsoft 365 Copilot via direct WebSocket. Query internal corporate data (emails, SharePoint, Teams, meetings).",
+      "description": "(Private repo) MCP server for Microsoft 365 Copilot via direct WebSocket. Query internal corporate data (emails, SharePoint, Teams, meetings). Personal use only.",
       "source": {
         "source": "url",
         "url": "https://github.com/lucaspretti/copilot-mcp.git",
