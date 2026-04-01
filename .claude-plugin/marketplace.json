@@ -25,11 +25,11 @@
     },
     {
       "name": "copilot-mcp",
-      "description": "MCP server for Microsoft 365 Copilot via Playwright browser automation. Query internal corporate data (emails, SharePoint, Teams, meetings).",
+      "description": "MCP server for Microsoft 365 Copilot via direct WebSocket. Query internal corporate data (emails, SharePoint, Teams, meetings).",
       "source": {
         "source": "url",
         "url": "https://github.com/lucaspretti/copilot-mcp.git",
-        "sha": "478b83779684bb0b933f8f0f335d352e5e01cdb3"
+        "sha": "1d5294d89b51b6181ebac34c93690994a777ff03"
       }
     }
   ]
