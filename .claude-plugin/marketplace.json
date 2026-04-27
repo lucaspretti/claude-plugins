@@ -31,6 +31,15 @@
         "url": "https://github.com/lucaspretti/copilot-mcp.git",
         "sha": "333e35f03d9d27a095e461676bdc99031f78f4f6"
       }
+    },
+    {
+      "name": "drupal-mcp",
+      "description": "MCP bridge for Drupal sites via core JSON:API. List, search, create, update, delete nodes, taxonomy terms, and users on any Drupal 10/11 site with the jsonapi module enabled. HTTPS Basic auth, no extra contrib module.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucaspretti/drupal-mcp.git",
+        "sha": "3da9153620fb0013b2181657b391087a61cf4c52"
+      }
     }
   ]
 }
