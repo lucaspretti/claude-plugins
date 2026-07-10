@@ -40,6 +40,15 @@
         "url": "https://github.com/lucaspretti/drupal-mcp.git",
         "sha": "8adc7ee371cbc1427d2fd05e5af2a9266a4bb67c"
       }
+    },
+    {
+      "name": "sapix",
+      "description": "Sapix: Lucas's personal AI orchestrator. Cortex memory + cognito orchestration for Claude Code: JIT skill loading, recall-before-web gate, reply-classifier, backed by the always-on Brain. Plugin root lives in the sapix monorepo (clients/claude-code); unpinned so hook/skill updates track master (the #519 drift-kill).",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/lucaspretti/sapix.git",
+        "path": "clients/claude-code"
+      }
     }
   ]
 }
