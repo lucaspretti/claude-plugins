@@ -6,42 +6,6 @@
   },
   "plugins": [
     {
-      "name": "matomo-analytics",
-      "description": "Unofficial community plugin for Matomo Analytics. Query visits, page performance, search keywords, traffic sources, and AI assistant referrals directly from Claude.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lucaspretti/matomo-mcp-client.git",
-        "sha": "e0d12ae4c78fb6f1785524489f9e0367d99963c6"
-      }
-    },
-    {
-      "name": "outlook-mcp",
-      "description": "MCP server for Microsoft Outlook Legacy on macOS via AppleScript. Search, read, send, reply, forward emails and manage calendar events without API keys or OAuth.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lucaspretti/outlook-mcp.git",
-        "sha": "ce38080b79d9056161fd48630a91d18e833c6456"
-      }
-    },
-    {
-      "name": "copilot-mcp",
-      "description": "(Private repo) MCP bridge for Microsoft 365 Copilot. Query corporate data from Claude.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lucaspretti/copilot-mcp.git",
-        "sha": "6897b9989ef3e163a97b791a3708ca070113a275"
-      }
-    },
-    {
-      "name": "drupal-mcp",
-      "description": "MCP bridge for Drupal sites via core JSON:API. List, search, create, update, delete nodes, taxonomy terms, and users on any Drupal 10/11 site with the jsonapi module enabled. HTTPS Basic auth, no extra contrib module.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lucaspretti/drupal-mcp.git",
-        "sha": "8adc7ee371cbc1427d2fd05e5af2a9266a4bb67c"
-      }
-    },
-    {
       "name": "sapix",
       "description": "Sapix: Lucas's personal AI orchestrator. Cortex memory + cognito orchestration for Claude Code: JIT skill loading, recall-before-web gate, reply-classifier, backed by the always-on Brain. Plugin root lives in the sapix monorepo (clients/claude-code); unpinned so hook/skill updates track master (the #519 drift-kill).",
       "source": {
